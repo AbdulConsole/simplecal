@@ -7,11 +7,11 @@ print("==============================================================")
 print("")
 print("")
 print("What Operation do you want to perform")
-print("01 = Addition")
-print("02 = Subtraction")
-print("03 = Multiplication")
-print("04 = Division")
-print("05 = About")
+print("1 = Addition")
+print("2 = Subtraction")
+print("3 = Multiplication")
+print("4 = Division")
+print("5 = About")
 
 k = str(input("--> "))
 
@@ -41,7 +41,7 @@ elif k == '4':
     print("answer is: "+answer)
 elif k == '5':
     print("This script is written with love for learning at ConsoleHUB")
-    print("for: HackerNurain; Bash-Hacker; Hacker_Ridollar")
+    print("for: HackerNurain; Bash-Hacker; Hacker_Ridollar; Hacker_Ismail")
     print("written 8-29-2018 12:03AM")
 else:
     print("Invalid Entry")
