@@ -5,3 +5,10 @@ A simple calculator built with python
 apt install python
 
 python simplealculator.py
+
+# Created for:
+
+Engineer Ridwan
+Hacker Nurain
+Bash-Hacker
+Ismail ()
