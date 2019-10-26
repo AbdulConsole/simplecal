@@ -8,7 +8,4 @@ python simplealculator.py
 
 # Created for:
 
-Engineer Ridwan
-Hacker Nurain
-Bash-Hacker
-Ismail ()
+For Demo purpose. 
